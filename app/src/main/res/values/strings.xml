@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CustomCRM</string>
+    <string name="welcome_title_heading">DashBoard</string>
+
+    <string name="welcome_role_prompt">Select Your Role</string>
+    <string name="welcome_text_password">Enter Your Password</string>
+    <string name="welcome_text_username_hint">Enter Your Username</string>
+    <string name="welcome_login_btn_text">Login</string>
+    <string name="welcome_intent_succesfull">Succesfull</string>
+    <string name="welcome_intent_unsucessfull">UnSuccessfull</string>
+    <string-array name="welcome_role_entries">
+        <item>Select Your Role</item>
+        <item>Admin</item>
+        <item>Customer</item>
+        <item>Employee</item>
+        <item>Supplier</item>
+    </string-array>
+</resources>
